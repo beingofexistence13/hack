@@ -2,7 +2,7 @@
 
 ## 📌 Introduction
 
-Welcome to 'hack', a repository dedicated to creating a secure login and logout system. Our code ensures user data privacy and provides a user-friendly experience. This project is a comprehensive solution for managing user sessions in an application, including creating user accounts, authenticating user credentials, managing active sessions, and securely logging users out.
+Welcome to hack, a repository dedicated to creating a secure login and logout system. Our code ensures user data privacy and provides a user-friendly experience. This project is a comprehensive solution for managing user sessions in an application, including creating user accounts, authenticating user credentials, managing active sessions, and securely logging users out.
 
 ## 🎯 Features
 
