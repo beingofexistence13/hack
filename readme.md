@@ -20,6 +20,19 @@ To get started with Hack, simply install the package:
 ```
 npm install hack
 ```
+You can also install the library using pip:
+
+```bash
+pip install hack
+```
+
+Or you can clone the repo and install it from source:
+
+```bash
+git clone https://github.com/your_username/hack.git
+cd hack
+python setup.py install
+```
 
 Once Hack is installed, you can create a new user account:
 
@@ -51,21 +64,6 @@ hack.logout();
 - Flexible: you can create multiple loggers with different settings and use them in different modules.
 - Reliable: you can handle exceptions and errors gracefully and log them with stack traces.
 - Compatible: you can use the library with any Python version from 2.7 to 3.9.
-
-## Installation
-You can install the library using pip:
-
-```bash
-pip install hack
-```
-
-Or you can clone the repo and install it from source:
-
-```bash
-git clone https://github.com/your_username/hack.git
-cd hack
-python setup.py install
-```
 
 ## Usage
 To use the library, you need to import it and create a logger object:
